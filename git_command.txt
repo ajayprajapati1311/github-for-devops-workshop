@@ -8,12 +8,12 @@ git commit -m "    "
 rm (file name)
 git restore (file name)
  git status
-   git remote add origin https://github.com/ajayprajapati1311/github-for-devops-workshop.git
+   git remote add origin your repo link
    git remote -v
    git remote -v
-   git remote set-url origin https://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@github.com/ajayprajapati1311/github-fordevops-workshop.git
+   git remote set-url origin 
    git remote -v
    git push origin master
-   git remote set-url origin https://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@github.com/ajayprajapati1311/github-for-devops-workshop.git
+   git remote set-url origin 
    git remote -v
    git push origin master
