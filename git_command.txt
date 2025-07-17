@@ -1,10 +1,9 @@
+git init
 ls
 clear
-git status
-git add
-git init
+git status - check status
+git add - for staged file
 git config user.email"   "
-git add
 git commit -m "    "
 rm (file name)
 git restore (file name)
