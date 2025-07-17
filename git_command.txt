@@ -7,13 +7,13 @@ git config user.email"   "
 git commit -m "    "
 rm (file name)
 git restore (file name)
- git status
-   git remote add origin your repo link
-   git remote -v
-   git remote -v
-   git remote set-url origin 
-   git remote -v
-   git push origin master
-   git remote set-url origin 
-   git remote -v
-   git push origin master
+git status
+git remote add origin your repo link
+git remote -v
+git remote -v
+git remote set-url origin 
+git remote -v
+git push origin master
+git remote set-url origin 
+git remote -v
+git push origin master
